@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.number__input {
+  background-color: rgb(117, 113, 113);
+  width: 200px;
+  margin-bottom: 20px;
+}
+.number__proof {
+  background-color: rgb(56, 218, 164);
+  width: 60px;
+  color: white;
+}
+.paragraph__clue,
+.paragraph__numberoftries {
+  width: 100%;
+  border: 1px solid grey;
+  padding: 10px;
+}
