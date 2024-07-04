@@ -4,8 +4,10 @@
 }
 
 .number__input {
-  background-color: rgb(117, 113, 113);
+  background-color: lightgrey;
   width: 200px;
+  height: 30px;
+  border-radius: 5px;
   margin-bottom: 20px;
 }
 .number__proof {
@@ -16,6 +18,7 @@
 .paragraph__clue,
 .paragraph__numberoftries {
   width: 100%;
-  border: 1px solid grey;
+  border: 3px solid lightgrey;
   padding: 10px;
+  font-size: 20px;
 }
